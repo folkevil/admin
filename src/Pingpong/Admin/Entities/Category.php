@@ -2,7 +2,7 @@
 
 namespace Pingpong\Admin\Entities;
 
-use Pingpong\Presenters\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 
 class Category extends Model
 {
