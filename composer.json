@@ -16,7 +16,7 @@
         "folkevil/moloquent-presenters": "2.1.*",
         "folkevil/moloquent-trusty": "2.1.*",
         "jenssegers/mongodb": "3.*",
-        "folkevil/moloquent-repository": "^2.6"
+        "folkevil/moloquent-repository": "^2.6",
         "pingpong/support": "2.1.*",
         "intervention/image": "~2"
     },
