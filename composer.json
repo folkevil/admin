@@ -1,5 +1,5 @@
 {
-    "name": "pingpong/admin",
+    "name": "folkevil/moloquent-admin",
     "description": "Laravel Admin Package",
     "keywords": ["pingpong", "admin", "laravel", "administrator"],
     "license": "BSD-3-Clause",
@@ -12,9 +12,9 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
-        "pingpong/menus": "2.1.*",
-        "pingpong/presenters": "2.1.*",
-        "pingpong/trusty": "2.1.*",
+        "folkevil/moloquent-menus": "2.1.*",
+        "folkevil/moloquent-presenters": "2.1.*",
+        "folkevil/moloquent-trusty": "2.1.*",
         "pingpong/support": "2.1.*",
         "intervention/image": "~2"
     },
